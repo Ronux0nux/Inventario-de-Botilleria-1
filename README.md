@@ -14,10 +14,11 @@ accessory instrument     #Numero de la implementacion que constituye en la botil
 tipo
 
 methods  ## operaciones es la accion  ##
+                        a #Observacion semestral de la mantencion de muebles
+                        a #Conteo semanal del stock total
+                        a #Conteo de la cantidad semanal de las botellas
+                        a #Conteo semanal de los accesorios instrumentales
 
-                         #Observacion semestral de la mantencion de muebles
-                         #Conteo semanal del stock total
-                         #Conteo de la cantidad semanal de las botellas
-                         #Conteo semanal de los accesorios instrumentales
+                      
 
 
