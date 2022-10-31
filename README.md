@@ -1,23 +1,22 @@
 # Inventario-de-Botilleria-1
 Crear un nuevo repositorio en el cual deberá definir mediante pseudocódigo las clases, atributos y métodos para un sistema de una botillería. Centrarse en la parte de Inventario y NO en la Transaccional  
 
-Botilleria "la pasita"
-
 ##atributos##
+Object Bottle shop
 class inventory 
 
-barcode                  #Identificador de Objetos
-stock                    #Inventario total de los objetos de la botilleria
-furniture                #Numero de muebles que constituyen la botilleria 
-bottle stock             #Numero de la cantidad de botellas que constituyen la botilleria
-accessory instrument     #Numero de la implementacion que constituye en la botilleria
-tipo
+barcode                  #Object Identifiers
+stock                    #Total inventory of botilleria objects
+furniture                #Number of pieces of furniture that constitute the botilleria
+bottle stock             #Number of the number of bottles that constitute the botilleria
+accessory instrument     #Number of the implementation that constitutes in the botilleria
+tip
 
-methods  ## operaciones es la accion  ##
-                        a #Observacion semestral de la mantencion de muebles
-                        a #Conteo semanal del stock total
-                        a #Conteo de la cantidad semanal de las botellas
-                        a #Conteo semanal de los accesorios instrumentales
+methods  ## operations is the action ##
+  register the barcode                    #Semi-annual observation of furniture maintenance
+  count the stock                         #Weekly total stock count
+  register the bottle                     #Weekly bottle quantity counting
+  count the isntrumental                  #Weekly count of instrumental accessories
 
                       
 
