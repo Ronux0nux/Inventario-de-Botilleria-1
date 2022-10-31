@@ -1,11 +1,11 @@
 # Inventario-de-Botilleria-1
-Crear un nuevo repositorio en el cual deberá definir mediante pseudocódigo las clases, atributos y métodos para un sistema de una botillería. Centrarse en la parte de Inventario y NO en la Transaccional  
+##Crear un nuevo repositorio en el cual deberá definir mediante pseudocódigo las clases, atributos y métodos para un sistema de una botillería. Centrarse en la parte de Inventario y NO en la Transaccional ## 
 
 ##atributos##
 Object Bottle shop
 class inventory 
 
-barcode           \n       #Object Identifiers
+barcode                  #Object Identifiers
 stock                    #Total inventory of botilleria objects
 furniture                #Number of pieces of furniture that constitute the botilleria
 bottle stock             #Number of the number of bottles that constitute the botilleria
