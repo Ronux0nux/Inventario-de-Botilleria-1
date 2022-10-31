@@ -5,7 +5,7 @@ Crear un nuevo repositorio en el cual deberá definir mediante pseudocódigo las
 Object Bottle shop
 class inventory 
 
-barcode                  #Object Identifiers
+barcode           \n       #Object Identifiers
 stock                    #Total inventory of botilleria objects
 furniture                #Number of pieces of furniture that constitute the botilleria
 bottle stock             #Number of the number of bottles that constitute the botilleria
